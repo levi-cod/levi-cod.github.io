@@ -368,18 +368,12 @@
 
 <!-- HERO -->
 <div class="stage">
-  <div class="kente-strip top" aria-hidden="true">
-    <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
-  </div>
 
   <p class="eyebrow">um convite para caminhar ao nosso lado</p>
   <h1 class="names">Levi<span class="amp">&amp;</span>Sara</h1>
   <p class="lede">Antes de qualquer detalhe da festa, queremos te fazer um convite muito especial.</p>
   <p class="scrolldown">deslize ↓</p>
 
-  <!--<div class="kente-strip bottom" aria-hidden="true">
-    <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
-  </div> --> 
 
 </div>
 
